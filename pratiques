@@ -1,1 +1,94 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8">
+  <title>Pratiques</title>
 
+  <style>
+    body {
+      background: #000;
+      color: #eaeaea;
+      font-family: Georgia, serif;
+      margin: 0;
+      padding: 60px;
+    }
+
+    .container {
+      max-width: 700px;
+    }
+
+    h1 {
+      font-size: 2.5rem;
+      margin-bottom: 40px;
+    }
+
+    h2 {
+      margin-top: 40px;
+      font-size: 1.5rem;
+    }
+
+    p {
+      font-size: 1.2rem;
+      margin-bottom: 20px;
+    }
+
+    .back {
+      margin-top: 40px;
+      display: inline-block;
+      color: #888;
+      text-decoration: none;
+    }
+
+    .back:hover {
+      color: #fff;
+    }
+  </style>
+
+</head>
+
+<body>
+
+<div class="container">
+
+  <h1>Pratiques</h1>
+
+  <p>
+    Les pratiques ne sont pas un jeu.
+    Elles s’inscrivent dans un cadre précis, structuré et cohérent.
+  </p>
+
+  <h2>Discipline physique</h2>
+  <p>
+    Impact, correction, endurance.<br>
+    Chaque geste a un objectif et une progression.
+  </p>
+
+  <h2>Autorité et contrôle</h2>
+  <p>
+    Obéissance, posture, respect des consignes.<br>
+    Vous êtes encadré, observé et corrigé.
+  </p>
+
+  <h2>Rituels</h2>
+  <p>
+    Mise en condition, protocole, répétition.<br>
+    Le cadre fait partie intégrante de l’expérience.
+  </p>
+
+  <h2>Évolution</h2>
+  <p>
+    Chaque séance s’inscrit dans une progression.<br>
+    Rien n’est laissé au hasard.
+  </p>
+
+  <p>
+    Ce cadre ne convient pas à tout le monde.
+    Il demande implication et constance.
+  </p>
+
+  <a class="back" href="index.html">Retour</a>
+
+</div>
+
+</body>
+</html>
